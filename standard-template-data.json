@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-01T06:50:59.513029797Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T07:10:18.449908017Z",
     "templateType": "trip_d",
     "propertyId": "5d233cbc-8e00-412e-a099-6735fd86b193",
     "homepageId": "38181bff-a2fe-4e36-a202-5666995e9f2c"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가요금]\n※ 객실 금액은 기준 인원에 대한 금액으로 인원 초과 시 추가 요금이 발생합니다.\n※ 현장에서 발생되는 모든 추가 요금은 1박당 부과되오니 자세한 사항은 숙소 측에 문의 부탁드립니다.\n\n[개별바베큐]\n- 바베큐 형태: 솥뚜껑 또는 숯불+그릴\n- 이용 객실: 전 객실\n- 이용 시간: 제한없음\n- 신청 시간: ~22:00\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 요금: 솥뚜껑: 4인 기준 25,000원 / 1인 추가 시 5,000원, 숯불+그릴: 4인 기준 20,000원 / 1인 추가 시 5,000원 (1박기준/현장결제)\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 하절기 에어컨 가동 가능 / 동절기 온풍기 가동 가능\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 온도 조절 가능\n- 입욕제 사용 불가\n\n[불멍]\n- 이용 요금: 1SET 20,000원 / 장작 추가 시 10,000원 (1박기준/현장결제)\n- 이용 시간: 17:00 ~ 22:00\n- 이용 장소: 각 객실 앞\n- 우천 시 이용 가능\n\n[부대시설]\n[텃밭 내 채소 무료 이동]\n- 종류: 쌈채소, 토마토 등\n- 텃밭 이용 가능 시기: 4월 중순 ~ 9월 초\n※ 수확 가능 시점은 매년 날씨에 따라 상이할 수 있으니 펜션으로 문의바랍니다.\n\n[편의 및 주변 시설]\n- 소화기 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n\n[주차장]\n- 주차장 보유\n- 객실 당 5대 가능",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 객실 금액은 기준 인원에 대한 금액으로 인원 초과 시 추가 요금이 발생합니다.\n※ 현장에서 발생되는 모든 추가 요금은 1박당 부과되오니 자세한 사항은 숙소 측에 문의 부탁드립니다.\n\n[개별바베큐]\n- 바베큐 형태: 솥뚜껑 또는 숯불+그릴\n- 이용 객실: 전 객실\n- 이용 시간: 제한없음\n- 신청 시간: ~22:00\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 요금: 솥뚜껑: 4인 기준 25,000원 / 1인 추가 시 5,000원, 숯불+그릴: 4인 기준 20,000원 / 1인 추가 시 5,000원 (1박기준/현장결제)\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 하절기 에어컨 가동 가능 / 동절기 온풍기 가동 가능\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 온도 조절 가능\n- 입욕제 사용 불가\n\n[불멍]\n- 이용 요금: 1SET 20,000원 / 장작 추가 시 10,000원 (1박기준/현장결제)\n- 이용 시간: 17:00 ~ 22:00\n- 이용 장소: 각 객실 앞\n- 우천 시 이용 가능\n\n[부대시설]\n[텃밭 내 채소 무료 이동]\n- 종류: 쌈채소, 토마토 등\n- 텃밭 이용 가능 시기: 4월 중순 ~ 9월 초\n※ 수확 가능 시점은 매년 날씨에 따라 상이할 수 있으니 펜션으로 문의바랍니다.\n\n[편의 및 주변 시설]\n- 소화기 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n\n[주차장]\n- 주차장 보유\n- 객실 당 5대 가능",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "stayandamiro.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1286742528",
     "ybsId": "76501",
+    "tripPropertyId": "7455",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -316,7 +319,7 @@
           {
             "id": "0fd2aff5-7b13-4d64-acdb-847622912000",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/vBZV45OnMhAE.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +329,7 @@
           {
             "id": "f1d6eefa-bbe7-407b-a110-e14a80c4481f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/rE1fiXtQMGzH.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +337,7 @@
           {
             "id": "ea53cb3c-c895-4b27-8140-262e1b13dbac",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/95QRgGYCph3L.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +345,7 @@
           {
             "id": "8dc963b8-ebed-437c-98f7-9c06df01c475",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/VXp8ZEl9tSjo.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +353,7 @@
           {
             "id": "142625f4-1b6f-4216-b1fa-1c7f1d313b04",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/Ofxzb9ndwYAK.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +361,7 @@
           {
             "id": "0d6f8112-b237-41a7-8aa0-309aacc9e936",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/tHNlbRXxL6Gr.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +369,7 @@
           {
             "id": "cd37c19a-2db7-40de-b3a3-5ac2b701e27f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/OMWzBaceTRyS.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +377,7 @@
           {
             "id": "ae2650e5-1548-4ea0-9d84-f586b31941dc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/KcGleX9a2AhY.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -382,7 +385,7 @@
           {
             "id": "51fdc932-cec6-4379-9663-a5d72858f639",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/RTug03Fpe4tc.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1322,6 +1325,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
